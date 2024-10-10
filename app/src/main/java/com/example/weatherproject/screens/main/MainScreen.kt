@@ -9,10 +9,10 @@ import androidx.compose.ui.tooling.preview.Preview
 
 @Composable
 fun MainScreen() {
-    val viewModel : MainViewModel =
-    Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-
-    }
+   // val viewModel : MainViewModel =
+//    Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+//
+//    }
 }
 
 @Composable
